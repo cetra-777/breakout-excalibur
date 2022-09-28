@@ -1,5 +1,5 @@
 {
-  "name": "template-ts-parcel",
+  "name": "Breakout Excalibur JS",
   "version": "1.0.0",
   "private": true,
   "description": "",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/excaliburjs/template-ts-parcel.git"
+    "url": "git+https://github.com/cetra-777/breakout-excalibur"
   },
-  "author": "",
+  "author": "Penny G.",
   "license": "BSD-2",
   "bugs": {
-    "url": "https://github.com/excaliburjs/template-ts-parcel/issues"
+    "url": "https://github.com/cetra-777/breakout-excalibur/issues"
   },
-  "homepage": "https://github.com/excaliburjs/template-ts-parcel#readme",
+  "homepage": "https://github.com/cetra-777/breakout-excalibur#readme",
   "assetsPath": "static/",
   "devDependencies": {
     "husky": "^4.2.5",
